@@ -1,0 +1,2525 @@
+@media only screen and (min-width:901px) and (max-width:1240px) {
+
+    /*****! Start Header Section *****/
+    .navbar-mid {
+        margin: 0px 20px;
+    }
+
+    /*****! End Header Section *****/
+
+
+    /*****! Start Banner-Main Section *****/
+    .banner-mid {
+        margin: 30px 20px 30px 20px;
+    }
+
+    .banner-part-left>h1 {
+        font-size: 45px;
+        line-height: 50px;
+    }
+
+    .banner-part-left>p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .circle {
+        width: 330px;
+        height: 330px;
+    }
+
+    .circle-box {
+        width: 270px;
+        height: 270px;
+        padding: 0px 15px;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .mobile-drop {
+        padding: 5px 0px;
+        margin-bottom: 5px;
+    }
+
+    /*****! End Banner-Main Section *****/
+
+
+    /*****! Start StudentSection *****/
+    .student-mid {
+        margin: 0px 20px;
+        margin-bottom: 30px;
+    }
+
+    .box p {
+        font-size: 14px;
+    }
+
+    /*****! End Student Section *****/
+
+
+    /*****! Start Course Section *****/
+    .course-mid {
+        padding: 50px 20px;
+    }
+
+    .course-box {
+        flex-basis: 32.5%;
+    }
+
+    /*****! End Course Section *****/
+
+
+    /*****! Start Career Option Section *****/
+    .career-option-mid {
+        padding: 0px 20px;
+    }
+
+    .career-option-mid h1 {
+        font-size: 40px;
+    }
+
+    /*****! End Career Option Section *****/
+
+
+    /*****! start Certificate Section *****/
+    .certificate-main {
+        padding: 0px 20px;
+    }
+
+    .certificate-right>figure>.img {
+        width: 240px;
+        height: 330px;
+    }
+
+    .certificate-right>figure>.img-1 {
+        display: none;
+    }
+
+    .certificate-right>figure>.img-2 {
+        display: none;
+    }
+
+    /*****! End Certificate Section *****/
+
+
+    /*****! Start Digital Marketing Section *****/
+    .digital-mid {
+        padding: 0px 20px;
+    }
+
+    .digital-mid>h1 {
+        font-size: 38px;
+    }
+
+    .unorder>li {
+        font-size: 15px;
+    }
+
+    .digital-box {
+        padding: 20px;
+    }
+
+    /*****! End Digital Marketing Section *****/
+
+
+    /*****! Start Why Digital Section *****/
+    .why-digital-mid {
+        padding: 50px 20px;
+    }
+
+    /*****! End Why Digital Section *****/
+
+
+    /*****! Start Our Student Section *****/
+    .our-student-mid {
+        padding: 50px 20px;
+    }
+
+    .our-student-mid>h1 {
+        font-size: 40px;
+    }
+
+    .start-course {
+        padding: 20px 0px;
+    }
+
+    .start-course>h1 {
+        font-size: 40px;
+    }
+
+    .start-course>p {
+        font-size: 18px;
+    }
+
+    /*****! End Our Student Section *****/
+
+
+
+    /*****! Start Digital Marketing Course Section *****/
+    .digital-marketing-mid {
+        padding: 50px 0px;
+    }
+
+    .digital-marketing-mid>h1 {
+        font-size: 40px;
+    }
+
+    .digital-marketing-mid>p {
+        font-size: 16px;
+    }
+
+    .card>h3 {
+        font-size: 16px;
+    }
+
+    /*****! End Digital Marketing Course Section *****/
+
+
+    /*****! Start Top Companies Section *****/
+    .top-companies-mid {
+        padding: 30px 0px;
+    }
+
+    .top-companies-mid>h1 {
+        font-size: 30px;
+    }
+
+    .top-companies-mid>figure>img {
+        width: 600px;
+    }
+
+    /*****! End Top Companies Section *****/
+
+
+    /*****! Start Footer Section *****/
+    .footer-main {
+        width: 100%;
+    }
+
+    .footer-mid {
+        padding: 20px 0px;
+    }
+
+    .footer-mid>figure>img {
+        width: 100px;
+        margin-bottom: 10px;
+    }
+
+    .footer-mid>p {
+        font-size: 14px;
+    }
+
+    .footer-mid>h2 {
+        font-size: 14px;
+    }
+
+    /*****! End Footer Section *****/
+}
+
+
+
+@media only screen and (min-width:760px) and (max-width:901px) {
+
+    /*****! Start Header Section *****/
+    .navbar-mid {
+        margin: 0px 20px;
+    }
+
+    /*****! End Header Section *****/
+
+
+    /*****! Start Banner-Main Section *****/
+    .banner-mid {
+        margin: 30px 20px 30px 20px;
+    }
+
+    .banner-part-left>h1 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .banner-part-left>p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .demo-btn {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+
+    .download-btn {
+        padding: 7px 20px;
+        font-size: 12px;
+    }
+
+    .circle {
+        width: 330px;
+        height: 330px;
+    }
+
+    .circle-box {
+        width: 270px;
+        height: 270px;
+        padding: 0px 15px;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .mobile-drop {
+        padding: 5px 0px;
+        margin-bottom: 5px;
+    }
+
+    /*****! End Banner-Main Section *****/
+
+
+    /*****! Start StudentSection *****/
+    .student-mid {
+        margin: 0px 20px;
+        margin-bottom: 30px;
+    }
+
+    .box p {
+        font-size: 14px;
+    }
+
+    /*****! End Student Section *****/
+
+
+    /*****! Start Course Section *****/
+    .course-mid {
+        padding: 50px 20px;
+    }
+
+    .course-box {
+        flex-basis: 49.3%;
+    }
+
+    .course-mid>p {
+        font-size: 16px;
+    }
+
+    /*****! End Course Section *****/
+
+
+    /*****! Start Career Option Section *****/
+    .career-option-mid {
+        padding: 0px 20px;
+    }
+
+    .career-option-mid h1 {
+        font-size: 35px;
+    }
+
+    .career-option-mid h1 br {
+        display: none;
+    }
+
+    .career-card-content>h4 {
+        font-size: 13px;
+    }
+
+    .career-card-content>p {
+        font-size: 10px;
+    }
+
+    /*****! End Career Option Section *****/
+
+
+    /*****! start Certificate Section *****/
+    .certificate-main {
+        padding: 0px 20px;
+    }
+
+    .certificate-right>figure>.img {
+        width: 240px;
+        height: 333px;
+    }
+
+    .certificate-right>figure>.img-1 {
+        display: none;
+    }
+
+    .certificate-right>figure>.img-2 {
+        display: none;
+    }
+
+    /*****! End Certificate Section *****/
+
+
+    /*****! Start Digital Marketing Section *****/
+    .digital-mid {
+        padding: 0px 20px;
+    }
+
+    .digital-mid>h1 {
+        font-size: 35px;
+    }
+
+    .digital-mid>h1 br {
+        display: none;
+    }
+
+    .unorder>li {
+        font-size: 15px;
+    }
+
+    .digital-box {
+        padding: 20px;
+    }
+
+    /*****! End Digital Marketing Section *****/
+
+
+    /*****! Start Why Digital Section *****/
+    .why-digital-mid {
+        padding: 50px 20px;
+    }
+
+    .why-digital-mid-boxes {
+        gap: 14px;
+    }
+
+    /*****! End Why Digital Section *****/
+
+
+    /*****! Start Our Student Section *****/
+    .our-student-mid {
+        padding: 50px 20px;
+    }
+
+    .our-student-mid>h1 {
+        font-size: 35px;
+    }
+
+    .our-student-mid>h1 br {
+        display: none;
+    }
+
+    .start-course {
+        padding: 20px 0px;
+    }
+
+    .start-course>h1 {
+        font-size: 35px;
+    }
+
+    .start-course>h1 br {
+        display: none;
+    }
+
+    .start-course>p {
+        font-size: 18px;
+    }
+
+    /*****! End Our Student Section *****/
+
+
+
+    /*****! Start Digital Marketing Course Section *****/
+    .digital-marketing-mid {
+        padding: 50px 0px;
+    }
+
+    .digital-marketing-mid>h1 {
+        font-size: 35px;
+    }
+
+    .digital-marketing-mid>h1 br {
+        display: none;
+    }
+
+    .digital-marketing-mid>p {
+        font-size: 16px;
+    }
+
+    .card>h3 {
+        font-size: 16px;
+    }
+
+    /*****! End Digital Marketing Course Section *****/
+
+
+    /*****! Start Top Companies Section *****/
+    .top-companies-mid {
+        padding: 30px 0px;
+    }
+
+    .top-companies-mid>h1 {
+        font-size: 30px;
+    }
+
+    .top-companies-mid>figure>img {
+        width: 600px;
+    }
+
+    /*****! End Top Companies Section *****/
+
+
+    /*****! Start Footer Section *****/
+    .footer-main {
+        width: 100%;
+    }
+
+    .footer-mid {
+        padding: 20px 0px;
+    }
+
+    .footer-mid>figure>img {
+        width: 100px;
+        margin-bottom: 10px;
+    }
+
+    .footer-mid>p {
+        font-size: 14px;
+    }
+
+    .footer-mid>h2 {
+        font-size: 14px;
+    }
+
+    /*****! End Footer Section *****/
+}
+
+
+
+@media only screen and (min-width:500px) and (max-width:760px) {
+
+    /*****! Start Header Section *****/
+    .navbar-mid {
+        margin: 0px 20px;
+    }
+
+    .whatsapp-btn {
+        padding: 10px;
+    }
+
+    .phone-btn {
+        padding: 10px;
+    }
+
+    /*****! End Header Section *****/
+
+
+    /*****! Start Banner-Main Section *****/
+    .banner-mid {
+        flex-direction: column;
+        gap: 20px;
+        margin: 20px;
+    }
+
+    .banner-part-left>h1 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .banner-part-left>h1 br {
+        display: none;
+    }
+
+    .banner-part-left>p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .demo-btn {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+
+    .download-btn {
+        padding: 7px 20px;
+        font-size: 12px;
+    }
+
+    .circle {
+        width: 330px;
+        height: 330px;
+    }
+
+    .circle-box {
+        width: 270px;
+        height: 270px;
+        padding: 0px 15px;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .mobile-drop {
+        padding: 5px 0px;
+        margin-bottom: 5px;
+    }
+
+    /*****! End Banner-Main Section *****/
+
+
+    /*****! Start StudentSection *****/
+    .student-mid {
+        margin: 0px 20px;
+        margin-bottom: 30px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .box {
+        flex-basis: 30%;
+        margin: 1.5%;
+        box-shadow: 0px 0px 5px 0px #ccc;
+        padding: 5px;
+    }
+
+    .box p {
+        font-size: 12px;
+    }
+
+    /*****! End Student Section *****/
+
+
+    /*****! Start Course Section *****/
+    .course-mid {
+        padding: 50px 20px;
+    }
+
+    .course-box {
+        flex-basis: 48.9%;
+    }
+
+    .course-mid>p {
+        font-size: 16px;
+    }
+
+    /*****! End Course Section *****/
+
+
+    /*****! Start Career Option Section *****/
+    .career-option-mid {
+        padding: 0px 20px;
+    }
+
+    .career-option-mid>h1 {
+        font-size: 35px;
+    }
+
+    .career-option-mid>h1 br {
+        display: none;
+    }
+
+    .career-card-content>h4 {
+        font-size: 13px;
+    }
+
+    .career-card-content>p {
+        font-size: 10px;
+    }
+
+    .career-cards {
+        flex-wrap: wrap;
+    }
+
+    .career-card {
+        flex-basis: 47.8%;
+    }
+
+    /*****! End Career Option Section *****/
+
+
+    /*****! start Certificate Section *****/
+    .certificate-main {
+        padding: 0px 20px;
+    }
+
+    .certificate-mid {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .certificate-right>figure>.img {
+        width: 240px;
+        height: 330px;
+    }
+
+    .certificate-right>figure>.img-1 {
+        display: none;
+    }
+
+    .certificate-right>figure>.img-2 {
+        display: none;
+    }
+
+    .certificate-left-card {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .left-card {
+        flex: 100%;
+    }
+
+    /*****! End Certificate Section *****/
+
+
+    /*****! Start Digital Marketing Section *****/
+    .digital-mid {
+        padding: 0px 20px;
+    }
+
+    .digital-mid>h1 {
+        font-size: 35px;
+    }
+
+    .digital-mid>h1 br {
+        display: none;
+    }
+
+    .unorder {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .unorder>li {
+        font-size: 15px;
+        flex-basis: 30%;
+    }
+
+    .digital-box {
+        padding: 20px;
+    }
+
+    .digital-box>ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .digital-box>ul>li {
+        flex-basis: 48%;
+    }
+
+    /*****! End Digital Marketing Section *****/
+
+
+    /*****! Start Why Digital Section *****/
+    .why-digital-mid {
+        padding: 50px 20px;
+    }
+
+    .why-digital-mid-boxes {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .why-digital-mid-boxes>.box {
+        flex-basis: 45.3%;
+    }
+
+    /*****! End Why Digital Section *****/
+
+
+    /*****! Start Our Student Section *****/
+    .our-student-mid {
+        padding: 50px 20px;
+    }
+
+    .our-student-mid>h1 {
+        font-size: 35px;
+    }
+
+    .our-student-mid>h1 br {
+        display: none;
+    }
+
+    .start-course {
+        padding: 20px 0px;
+    }
+
+    .start-course>h1 {
+        font-size: 35px;
+    }
+
+    .start-course>p {
+        font-size: 18px;
+    }
+
+    /*****! End Our Student Section *****/
+
+
+
+    /*****! Start Digital Marketing Course Section *****/
+    .digital-marketing-mid {
+        padding: 50px 20px;
+    }
+
+    .digital-marketing-mid>h1 {
+        font-size: 35px;
+    }
+
+    .digital-marketing-mid>h1 br {
+        display: none;
+    }
+
+    .digital-marketing-mid>p {
+        font-size: 16px;
+    }
+
+    .card>h3 {
+        font-size: 16px;
+    }
+
+    .website-development {
+        width: 100%;
+    }
+
+    .web-cards>.card {
+        width: 100%;
+    }
+
+    /*****! End Digital Marketing Course Section *****/
+
+
+    /*****! Start Top Companies Section *****/
+    .top-companies-mid {
+        padding: 30px 20px;
+    }
+
+    .top-companies-mid>h1 {
+        font-size: 30px;
+    }
+
+    .top-companies-mid>figure>img {
+        width: 100%;
+    }
+
+    /*****! End Top Companies Section *****/
+
+
+    /*****! Start Footer Section *****/
+    .footer-main {
+        width: 100%;
+    }
+
+    .footer-mid {
+        padding: 20px 0px;
+    }
+
+    .footer-mid>figure>img {
+        width: 100px;
+        margin-bottom: 10px;
+    }
+
+    .footer-mid>p {
+        font-size: 14px;
+    }
+
+    .footer-mid>h2 {
+        font-size: 14px;
+    }
+
+    /*****! End Footer Section *****/
+}
+
+
+
+
+
+@media only screen and (min-width:400px) and (max-width:500px) {
+
+    /*****! Start Header Section *****/
+    .header-main {
+        width: 100%;
+    }
+
+    .navbar-mid {
+        margin: 0px 20px;
+    }
+
+    .Btn {
+        display: none;
+    }
+
+    .whatsapp-btn {
+        padding: 10px;
+        width: 140px;
+        /* position: fixed;
+        bottom: 10px;
+        left: 10px; */
+    }
+
+    .phone-btn {
+        padding: 10px;
+        width: 140px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* position: fixed;
+        bottom: 10px;
+        right: 10px; */
+    }
+
+    /*****! End Header Section *****/
+
+
+    /*****! Start Banner-Main Section *****/
+    .banner-mid {
+        flex-direction: column;
+        gap: 20px;
+        margin: 20px;
+    }
+
+    .banner-part-left>h1 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .banner-part-left>h1 br {
+        display: none;
+    }
+
+    .banner-part-left>p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .demo-btn {
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+
+    .download-btn {
+        padding: 7px 20px;
+        font-size: 12px;
+    }
+
+    .circle {
+        width: 330px;
+        height: 330px;
+    }
+
+    .circle-box {
+        width: 270px;
+        height: 270px;
+        padding: 0px 15px;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .mobile-drop {
+        padding: 5px 0px;
+        margin-bottom: 5px;
+    }
+
+    /*****! End Banner-Main Section *****/
+
+
+    /*****! Start StudentSection *****/
+    .student-mid {
+        margin: 0px 20px;
+        margin-bottom: 30px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .box {
+        flex-basis: 47%;
+        margin: 1.5%;
+        box-shadow: 0px 0px 5px 0px #ccc;
+        padding: 5px;
+    }
+
+    .box p {
+        font-size: 12px;
+    }
+
+    /*****! End Student Section *****/
+
+
+    /*****! Start Course Section *****/
+    .course-mid {
+        padding: 50px 20px;
+    }
+
+    .course-box {
+        flex-basis: 100%;
+    }
+
+    .course-mid>p {
+        font-size: 16px;
+    }
+
+    /*****! End Course Section *****/
+
+
+    /*****! Start Career Option Section *****/
+    .career-option-mid {
+        padding: 0px 20px;
+    }
+
+    .career-option-mid>h1 {
+        font-size: 35px;
+    }
+
+    .career-option-mid>h1 br {
+        display: none;
+    }
+
+    .career-card-content>h4 {
+        font-size: 13px;
+    }
+
+    .career-card-content>p {
+        font-size: 10px;
+    }
+
+    .career-cards {
+        flex-wrap: wrap;
+    }
+
+    .career-card {
+        flex-basis: 47.2%;
+    }
+
+    /*****! End Career Option Section *****/
+
+
+    /*****! start Certificate Section *****/
+    .certificate-main {
+        padding: 0px 20px;
+    }
+
+    .certificate-mid {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .certificate-right>figure>.img {
+        width: 240px;
+        height: 330px;
+    }
+
+    .certificate-right>figure>.img-1 {
+        display: none;
+    }
+
+    .certificate-right>figure>.img-2 {
+        display: none;
+    }
+
+    .certificate-left-card {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .left-card {
+        flex: 100%;
+    }
+
+    /*****! End Certificate Section *****/
+
+
+    /*****! Start Digital Marketing Section *****/
+    .digital-mid {
+        padding: 0px 20px;
+    }
+
+    .digital-mid>h1 {
+        font-size: 35px;
+    }
+
+    .digital-mid>h1 br {
+        display: none;
+    }
+
+    .unorder {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .unorder>li {
+        font-size: 15px;
+        flex-basis: 30%;
+    }
+
+    .digital-box {
+        padding: 20px;
+    }
+
+    .digital-box>ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .digital-box>ul>li {
+        flex-basis: 100%;
+    }
+
+    /*****! End Digital Marketing Section *****/
+
+
+    /*****! Start Why Digital Section *****/
+    .why-digital-mid {
+        padding: 50px 20px;
+    }
+
+    .why-digital-mid-boxes {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .why-digital-mid-boxes>.box {
+        flex-basis: 44.9%;
+    }
+
+    /*****! End Why Digital Section *****/
+
+
+    /*****! Start Our Student Section *****/
+    .our-student-mid {
+        padding: 50px 20px;
+    }
+
+    .our-student-mid>h1 {
+        font-size: 35px;
+    }
+
+    .our-student-mid>h1 br {
+        display: none;
+    }
+
+    .start-course {
+        padding: 20px 0px;
+    }
+
+    .start-course>h1 {
+        font-size: 35px;
+    }
+
+    .start-course>p {
+        font-size: 18px;
+    }
+
+    .our-student-boxes {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .our-student-boxes>.box {
+        flex-basis: 100%;
+    }
+
+    .start-course>h1 {
+        font-size: 30px;
+    }
+
+    .start-course>h1 br {
+        display: none;
+    }
+
+    .start-course>p {
+        font-size: 15px;
+        padding: 0px 20px;
+    }
+
+    /*****! End Our Student Section *****/
+
+
+
+    /*****! Start Digital Marketing Course Section *****/
+    .digital-marketing-mid {
+        padding: 50px 20px;
+    }
+
+    .digital-marketing-mid>h1 {
+        font-size: 35px;
+    }
+
+    .digital-marketing-mid>h1 br {
+        display: none;
+    }
+
+    .digital-marketing-mid>p {
+        font-size: 16px;
+    }
+
+    .website-development>h6 {
+        position: absolute;
+        top: 35px;
+        right: 10px;
+        width: 10px;
+        border: 1px solid #2699FB;
+    }
+
+    .card>h3 {
+        font-size: 16px;
+    }
+
+    .website-development {
+        width: 100%;
+    }
+
+    .web-cards>.card {
+        width: 100%;
+    }
+
+    /*****! End Digital Marketing Course Section *****/
+
+
+    /*****! Start Top Companies Section *****/
+    .top-companies-mid {
+        padding: 30px 20px;
+    }
+
+    .top-companies-mid>h1 {
+        font-size: 30px;
+    }
+
+    .top-companies-mid>figure>img {
+        width: 100%;
+    }
+
+    /*****! End Top Companies Section *****/
+
+
+    /*****! Start Footer Section *****/
+    .footer-main {
+        width: 100%;
+    }
+
+    .footer-mid {
+        padding: 20px 0px;
+    }
+
+    .footer-mid>figure>img {
+        width: 100px;
+        margin-bottom: 10px;
+    }
+
+    .footer-mid>p {
+        font-size: 10px;
+    }
+
+    .footer-mid>h2 {
+        font-size: 14px;
+    }
+
+    /*****! End Footer Section *****/
+}
+
+
+
+
+
+@media only screen and (min-width:300px) and (max-width:400px) {
+
+    /*****! Start Header Section *****/
+    .header-main {
+        width: 100%;
+    }
+
+    .navbar-mid {
+        margin: 0px 20px;
+    }
+
+    .Btn {
+        display: none;
+    }
+
+    .whatsapp-btn {
+        padding: 10px;
+        width: 140px;
+        /* position: fixed;
+        bottom: 10px;
+        left: 10px; */
+    }
+
+    .phone-btn {
+        padding: 10px;
+        width: 140px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* position: fixed;
+        bottom: 10px;
+        right: 10px; */
+    }
+
+    /*****! End Header Section *****/
+
+
+    /*****! Start Banner-Main Section *****/
+    .banner-mid {
+        flex-direction: column;
+        gap: 20px;
+        margin: 20px;
+    }
+
+    .banner-part-left>h1 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .banner-part-left>h1 br {
+        display: none;
+    }
+
+    .banner-part-left>p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .demo-btn {
+        padding: 8px 20px;
+        font-size: 12px;
+    }
+
+    .download-btn {
+        padding: 7px 20px;
+        font-size: 12px;
+    }
+
+    .circle {
+        width: 330px;
+        height: 330px;
+        background-color: transparent;
+    }
+
+    .circle-box {
+        width: 270px;
+        height: 300px;
+        padding: 0px 15px;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .mobile-drop {
+        padding: 5px 0px;
+        margin-bottom: 5px;
+        display: flex;
+        overflow: hidden;
+    }
+
+    /*****! End Banner-Main Section *****/
+
+
+    /*****! Start StudentSection *****/
+    .student-mid {
+        margin: 0px 20px;
+        margin-bottom: 30px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .box {
+        flex-basis: 100%;
+        margin: 1.5%;
+        box-shadow: 0px 0px 5px 0px #ccc;
+        padding: 5px;
+    }
+
+    .box p {
+        font-size: 12px;
+    }
+
+    /*****! End Student Section *****/
+
+
+    /*****! Start Course Section *****/
+    .course-mid {
+        padding: 50px 20px;
+    }
+
+    .course-box {
+        flex-basis: 100%;
+    }
+
+    .course-mid>p {
+        font-size: 16px;
+    }
+
+    /*****! End Course Section *****/
+
+
+    /*****! Start Career Option Section *****/
+    .career-option-mid {
+        padding: 0px 20px;
+    }
+
+    .career-option-mid>h1 {
+        font-size: 35px;
+    }
+
+    .career-option-mid>h1 br {
+        display: none;
+    }
+
+    .career-card-content>h4 {
+        font-size: 13px;
+    }
+
+    .career-card-content>p {
+        font-size: 10px;
+    }
+
+    .career-cards {
+        flex-wrap: wrap;
+    }
+
+    .career-card {
+        flex-basis: 100%;
+    }
+
+    /*****! End Career Option Section *****/
+
+
+    /*****! start Certificate Section *****/
+    .certificate-main {
+        padding: 0px 20px;
+    }
+
+    .certificate-mid {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .certificate-right>figure>.img {
+        width: 240px;
+        height: 330px;
+    }
+
+    .certificate-right>figure>.img-1 {
+        display: none;
+    }
+
+    .certificate-right>figure>.img-2 {
+        display: none;
+    }
+
+    .certificate-left-card {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .left-card {
+        flex: 100%;
+    }
+
+    .left-card>figure>img {
+        padding: 0px 5px;
+    }
+
+    /*****! End Certificate Section *****/
+
+
+    /*****! Start Digital Marketing Section *****/
+    .digital-mid {
+        padding: 0px 20px;
+    }
+
+    .digital-mid>h1 {
+        font-size: 30px;
+    }
+
+    .digital-mid>h1 br {
+        display: none;
+    }
+
+    .unorder {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .unorder>li {
+        font-size: 15px;
+        flex-basis: 30%;
+    }
+
+    .digital-box {
+        padding: 20px;
+    }
+
+    .digital-box>ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .digital-box>ul>li {
+        flex-basis: 100%;
+    }
+
+    /*****! End Digital Marketing Section *****/
+
+
+    /*****! Start Why Digital Section *****/
+    .why-digital-mid {
+        padding: 50px 20px;
+    }
+
+    .why-digital-mid-boxes {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .why-digital-mid-boxes>.box {
+        flex-basis: 100%;
+    }
+
+    /*****! End Why Digital Section *****/
+
+
+    /*****! Start Our Student Section *****/
+    .our-student-mid {
+        padding: 50px 20px;
+    }
+
+    .our-student-mid>h1 {
+        font-size: 35px;
+    }
+
+    .our-student-mid>h1 br {
+        display: none;
+    }
+
+    .start-course {
+        padding: 20px 0px;
+    }
+
+    .start-course>h1 {
+        font-size: 35px;
+    }
+
+    .start-course>p {
+        font-size: 18px;
+    }
+
+    .our-student-boxes {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .our-student-boxes>.box {
+        flex-basis: 100%;
+    }
+
+    .start-course>h1 {
+        font-size: 30px;
+    }
+
+    .start-course>h1 br {
+        display: none;
+    }
+
+    .start-course>p {
+        font-size: 15px;
+        padding: 0px 20px;
+    }
+
+    /*****! End Our Student Section *****/
+
+
+
+    /*****! Start Digital Marketing Course Section *****/
+    .digital-marketing-mid {
+        padding: 50px 20px;
+    }
+
+    .digital-marketing-mid>h1 {
+        font-size: 35px;
+    }
+
+    .digital-marketing-mid>h1 br {
+        display: none;
+    }
+
+    .digital-marketing-mid>p {
+        font-size: 16px;
+    }
+
+    .website-development>h6 {
+        position: absolute;
+        top: 35px;
+        right: 10px;
+        width: 10px;
+        border: 1px solid #2699FB;
+    }
+
+    .card>h3 {
+        font-size: 16px;
+    }
+
+    .website-development {
+        width: 100%;
+    }
+
+    .web-cards>.card {
+        width: 100%;
+    }
+
+    /*****! End Digital Marketing Course Section *****/
+
+
+    /*****! Start Top Companies Section *****/
+    .top-companies-mid {
+        padding: 30px 20px;
+    }
+
+    .top-companies-mid>h1 {
+        font-size: 25px;
+    }
+
+    .top-companies-mid>figure>img {
+        width: 100%;
+    }
+
+    /*****! End Top Companies Section *****/
+
+
+    /*****! Start Footer Section *****/
+    .footer-main {
+        width: 100%;
+    }
+
+    .footer-mid {
+        padding: 20px 0px;
+    }
+
+    .footer-mid>figure>img {
+        width: 100px;
+        margin-bottom: 10px;
+    }
+
+    .footer-mid>p {
+        font-size: 10px;
+    }
+
+    .footer-mid>h2 {
+        font-size: 14px;
+    }
+
+    /*****! End Footer Section *****/
+}
+
+
+
+
+@media only screen and (min-width:200px) and (max-width:300px) {
+
+    /*****! Start Header Section *****/
+    .header-main {
+        width: 100%;
+    }
+
+    .navbar-mid {
+        margin: 0px 20px;
+    }
+
+    .Btn {
+        display: none;
+    }
+
+    .whatsapp-btn {
+        padding: 10px;
+        width: 140px;
+        /* position: fixed;
+        bottom: 10px;
+        left: 10px; */
+    }
+
+    .phone-btn {
+        padding: 10px;
+        width: 140px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* position: fixed;
+        bottom: 10px;
+        right: 10px; */
+    }
+
+    /*****! End Header Section *****/
+
+
+    /*****! Start Banner-Main Section *****/
+    .banner-mid {
+        flex-direction: column;
+        gap: 20px;
+        margin: 20px;
+    }
+
+    .banner-part-left>h1 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .banner-part-left>h1 br {
+        display: none;
+    }
+
+    .banner-part-left>p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .banner-part-left-btn {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .demo-btn {
+        width: 100%;
+        padding: 10px;
+        font-size: 10px;
+    }
+
+    .download-btn {
+        padding: 7px 10px;
+        font-size: 10px;
+        width: 100%;
+    }
+
+    .circle {
+        width: 100%;
+        height: 100%;
+        background-color: transparent;
+    }
+
+    .circle-box {
+        width: 100%;
+        height: 270px;
+        padding: 0px 10px;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .form-type>input {
+        max-width: 100%;
+    }
+
+    .form-type .mobile-drop {
+        max-width: 100%;
+    }
+
+    .mobile-drop {
+        padding: 5px 0px;
+        margin-bottom: 5px;
+        display: flex;
+        overflow: hidden;
+    }
+
+    .circle-box-btn {
+        max-width: 100%;
+    }
+
+    /*****! End Banner-Main Section *****/
+
+
+    /*****! Start Student Section *****/
+    .student-mid {
+        margin: 0px 20px;
+        margin-bottom: 30px;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 5px;
+    }
+
+    .box {
+        flex-basis: 100%;
+        margin: 1.5%;
+        box-shadow: 0px 0px 5px 0px #ccc;
+        padding: 5px;
+    }
+
+    .box p {
+        font-size: 12px;
+    }
+
+    /*****! End Student Section *****/
+
+
+    /*****! Start Course Section *****/
+    .course-mid {
+        padding: 50px 20px;
+    }
+
+    .course-box {
+        flex-basis: 100%;
+    }
+
+    .cPart {
+        max-width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .course-mid>p {
+        font-size: 16px;
+    }
+
+    /*****! End Course Section *****/
+
+
+    /*****! Start Career Option Section *****/
+    .career-option-mid {
+        padding: 0px 20px;
+    }
+
+    .career-option-mid>h1 {
+        font-size: 35px;
+    }
+
+    .career-option-mid>h1 br {
+        display: none;
+    }
+
+    .career-card-content>h4 {
+        font-size: 13px;
+    }
+
+    .career-card-content>p {
+        font-size: 10px;
+    }
+
+    .career-cards {
+        flex-wrap: wrap;
+    }
+
+    .career-card {
+        flex-basis: 100%;
+    }
+
+    /*****! End Career Option Section *****/
+
+
+    /*****! start Certificate Section *****/
+    .certificate-main {
+        padding: 0px 20px;
+    }
+
+    .certificate-mid {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .certificate-right>figure>.img {
+        width: 200px;
+        height: 330px;
+    }
+
+    .certificate-right>figure>.img-1 {
+        display: none;
+    }
+
+    .certificate-right>figure>.img-2 {
+        display: none;
+    }
+
+    .certificate-left-card {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .left-card {
+        flex: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .certificate-right {
+        padding: 0px 20px;
+        width: 100%;
+    }
+
+    .certificate-left-button {
+        width: 100%;
+    }
+
+    /*****! End Certificate Section *****/
+
+
+    /*****! Start Digital Marketing Section *****/
+    .digital-mid {
+        padding: 0px 20px;
+    }
+
+    .digital-mid>h1 {
+        font-size: 25px;
+    }
+
+    .digital-mid>h1 br {
+        display: none;
+    }
+
+    .unorder {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .unorder>li {
+        font-size: 15px;
+        flex-basis: 30%;
+    }
+
+    .digital-box {
+        padding: 20px;
+    }
+
+    .digital-box>ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .digital-box>ul>li {
+        flex-basis: 100%;
+    }
+
+    /*****! End Digital Marketing Section *****/
+
+
+    /*****! Start Why Digital Section *****/
+    .why-digital-mid {
+        padding: 50px 20px;
+    }
+
+    .why-digital-mid-boxes {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .why-digital-mid-boxes>.box {
+        flex-basis: 100%;
+    }
+
+    /*****! End Why Digital Section *****/
+
+
+    /*****! Start Our Student Section *****/
+    .our-student-mid {
+        padding: 50px 20px;
+    }
+
+    .our-student-mid>h1 {
+        font-size: 25px;
+    }
+
+    .our-student-mid>h1 br {
+        display: none;
+    }
+
+    .start-course {
+        padding: 20px 0px;
+    }
+
+    .start-course>h1 {
+        font-size: 35px;
+    }
+
+    .start-course>p {
+        font-size: 18px;
+    }
+
+    .our-student-boxes {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .our-student-boxes>.box {
+        flex-basis: 100%;
+    }
+
+    .start-course>h1 {
+        font-size: 25px;
+    }
+
+    .start-course>h1 br {
+        display: none;
+    }
+
+    .start-course>p {
+        font-size: 15px;
+        padding: 0px 20px;
+    }
+
+    .start-course>button {
+        margin: 0px 20px;
+        margin: auto;
+        font-size: 10px;
+    }
+
+    /*****! End Our Student Section *****/
+
+
+
+    /*****! Start Digital Marketing Course Section *****/
+    .digital-marketing-mid {
+        padding: 50px 20px;
+    }
+
+    .digital-marketing-mid>h1 {
+        font-size: 25px;
+    }
+
+    .digital-marketing-mid>h1 br {
+        display: none;
+    }
+
+    .digital-marketing-mid>p {
+        font-size: 16px;
+    }
+
+    .website-development>h2 {
+        font-size: 15px;
+    }
+
+    .website-development>h6 {
+        position: absolute;
+        top: 30px;
+        right: 10px;
+        width: 10px;
+        border: 1px solid #2699FB;
+    }
+
+    .card>h3 {
+        font-size: 14px;
+    }
+
+    .website-development {
+        width: 100%;
+    }
+
+    .web-cards>.card {
+        width: 100%;
+    }
+
+    /*****! End Digital Marketing Course Section *****/
+
+
+    /*****! Start Top Companies Section *****/
+    .top-companies-mid {
+        padding: 30px 20px;
+    }
+
+    .top-companies-mid>h1 {
+        font-size: 20px;
+    }
+
+    .top-companies-mid>figure>img {
+        width: 100%;
+    }
+
+    /*****! End Top Companies Section *****/
+
+
+    /*****! Start Footer Section *****/
+    .footer-main {
+        width: 100%;
+    }
+
+    .footer-mid {
+        padding: 20px 0px;
+    }
+
+    .footer-mid>figure>img {
+        width: 100px;
+        margin-bottom: 10px;
+    }
+
+    .footer-mid>p {
+        font-size: 8px;
+        line-height: 20px;
+    }
+
+    .footer-mid>h2 {
+        font-size: 12px;
+    }
+
+    /*****! End Footer Section *****/
+}
+
+
+
+
+@media only screen and (max-width:200px) {
+
+    /*****! Start Header Section *****/
+    .header-main {
+        width: 100%;
+    }
+
+    .navbar-mid {
+        margin: 0px 20px;
+    }
+
+    .Btn {
+        position: fixed;
+        bottom: 10px;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        display: none;
+    }
+
+    .whatsapp-btn {
+        padding: 10px;
+        width: 140px;
+        /* position: fixed;
+        bottom: 10px;
+        left: 10px; */
+    }
+
+    .phone-btn {
+        padding: 10px;
+        width: 140px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* position: fixed;
+        bottom: 10px;
+        right: 10px; */
+    }
+
+    /*****! End Header Section *****/
+
+
+    /*****! Start Banner-Main Section *****/
+    .banner-mid {
+        flex-direction: column;
+        gap: 20px;
+        margin: 20px;
+    }
+
+    .banner-part-left>h1 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .banner-part-left>h1 br {
+        display: none;
+    }
+
+    .banner-part-left>p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .banner-part-left-btn {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .demo-btn {
+        width: 100%;
+        padding: 10px;
+        font-size: 10px;
+    }
+
+    .download-btn {
+        padding: 7px 10px;
+        font-size: 10px;
+        width: 100%;
+    }
+
+    .circle {
+        width: 100%;
+        height: 100%;
+        background-color: transparent;
+    }
+
+    .circle-box {
+        width: 100%;
+        height: 270px;
+        padding: 0px 10px;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .form-type>input {
+        max-width: 100%;
+    }
+
+    .form-type .mobile-drop {
+        max-width: 100%;
+    }
+
+    .mobile-drop {
+        padding: 5px 0px;
+        margin-bottom: 5px;
+        display: flex;
+        overflow: hidden;
+    }
+
+    .circle-box-btn {
+        max-width: 100%;
+    }
+
+    /*****! End Banner-Main Section *****/
+
+
+    /*****! Start Student Section *****/
+    .student-mid {
+        margin: 0px 20px;
+        margin-bottom: 30px;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 5px;
+    }
+
+    .box {
+        flex-basis: 100%;
+        margin: 1.5%;
+        box-shadow: 0px 0px 5px 0px #ccc;
+        padding: 5px;
+    }
+
+    .box p {
+        font-size: 12px;
+    }
+
+    /*****! End Student Section *****/
+
+
+    /*****! Start Course Section *****/
+    .course-mid {
+        padding: 50px 20px;
+    }
+
+    .course-box {
+        flex-basis: 100%;
+    }
+
+    .cPart {
+        max-width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .course-mid>p {
+        font-size: 16px;
+    }
+
+    /*****! End Course Section *****/
+
+
+    /*****! Start Career Option Section *****/
+    .career-option-mid {
+        padding: 0px 20px;
+    }
+
+    .career-option-mid>h1 {
+        font-size: 35px;
+    }
+
+    .career-option-mid>h1 br {
+        display: none;
+    }
+
+    .career-card-content>h4 {
+        font-size: 13px;
+    }
+
+    .career-card-content>p {
+        font-size: 10px;
+    }
+
+    .career-cards {
+        flex-wrap: wrap;
+    }
+
+    .career-card {
+        flex-basis: 100%;
+    }
+
+    /*****! End Career Option Section *****/
+
+
+    /*****! start Certificate Section *****/
+    .certificate-main {
+        padding: 0px 20px;
+    }
+
+    .certificate-mid {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .certificate-right>figure>.img {
+        width: 200px;
+        height: 330px;
+    }
+
+    .certificate-right>figure>.img-1 {
+        display: none;
+    }
+
+    .certificate-right>figure>.img-2 {
+        display: none;
+    }
+
+    .certificate-left-card {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .left-card {
+        flex: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .certificate-right {
+        padding: 0px 20px;
+        width: 100%;
+    }
+
+    .certificate-left-button {
+        width: 100%;
+    }
+
+    /*****! End Certificate Section *****/
+
+
+    /*****! Start Digital Marketing Section *****/
+    .digital-mid {
+        padding: 0px 20px;
+    }
+
+    .digital-mid>h1 {
+        font-size: 25px;
+    }
+
+    .digital-mid>h1 br {
+        display: none;
+    }
+
+    .unorder {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .unorder>li {
+        font-size: 15px;
+        flex-basis: 30%;
+    }
+
+    .digital-box {
+        padding: 20px;
+    }
+
+    .digital-box>ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .digital-box>ul>li {
+        flex-basis: 100%;
+    }
+
+    /*****! End Digital Marketing Section *****/
+
+
+    /*****! Start Why Digital Section *****/
+    .why-digital-mid {
+        padding: 50px 20px;
+    }
+
+    .why-digital-mid-boxes {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .why-digital-mid-boxes>.box {
+        flex-basis: 100%;
+    }
+
+    /*****! End Why Digital Section *****/
+
+
+    /*****! Start Our Student Section *****/
+    .our-student-mid {
+        padding: 50px 20px;
+    }
+
+    .our-student-mid>h1 {
+        font-size: 25px;
+    }
+
+    .our-student-mid>h1 br {
+        display: none;
+    }
+
+    .start-course {
+        padding: 20px 0px;
+    }
+
+    .start-course>h1 {
+        font-size: 35px;
+    }
+
+    .start-course>p {
+        font-size: 18px;
+    }
+
+    .our-student-boxes {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .our-student-boxes>.box {
+        flex-basis: 100%;
+    }
+
+    .start-course>h1 {
+        font-size: 25px;
+    }
+
+    .start-course>h1 br {
+        display: none;
+    }
+
+    .start-course>p {
+        font-size: 15px;
+        padding: 0px 20px;
+    }
+
+    .start-course>button {
+        margin: 0px 20px;
+        margin: auto;
+        font-size: 10px;
+    }
+
+    /*****! End Our Student Section *****/
+
+
+
+    /*****! Start Digital Marketing Course Section *****/
+    .digital-marketing-mid {
+        padding: 50px 20px;
+    }
+
+    .digital-marketing-mid>h1 {
+        font-size: 25px;
+    }
+
+    .digital-marketing-mid>h1 br {
+        display: none;
+    }
+
+    .digital-marketing-mid>p {
+        font-size: 16px;
+    }
+
+    .website-development>h2 {
+        font-size: 15px;
+    }
+
+    .website-development>h6 {
+        position: absolute;
+        top: 30px;
+        right: 10px;
+        width: 10px;
+        border: 1px solid #2699FB;
+    }
+
+    .card>h3 {
+        font-size: 14px;
+    }
+
+    .website-development {
+        width: 100%;
+    }
+
+    .web-cards>.card {
+        width: 100%;
+    }
+
+    /*****! End Digital Marketing Course Section *****/
+
+
+    /*****! Start Top Companies Section *****/
+    .top-companies-mid {
+        padding: 30px 20px;
+    }
+
+    .top-companies-mid>h1 {
+        font-size: 20px;
+    }
+
+    .top-companies-mid>figure>img {
+        width: 100%;
+    }
+
+    /*****! End Top Companies Section *****/
+
+
+    /*****! Start Footer Section *****/
+    .footer-main {
+        width: 100%;
+    }
+
+    .footer-mid {
+        padding: 20px 0px;
+    }
+
+    .footer-mid>figure>img {
+        width: 100px;
+        margin-bottom: 10px;
+    }
+
+    .footer-mid>p {
+        font-size: 8px;
+        line-height: 20px;
+    }
+
+    .footer-mid>h2 {
+        font-size: 12px;
+    }
+
+    /*****! End Footer Section *****/
+}
