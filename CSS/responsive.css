@@ -841,22 +841,38 @@
     /*****! Start Header Section *****/
     .header-main {
         width: 100%;
+        position: sticky;
     }
 
     .navbar-mid {
         margin: 0px 20px;
     }
 
+    .hamburgar {
+        display: block;
+    }
+
     .Btn {
-        display: none;
+        position: absolute;
+        top: 100%;
+        left: -1000px;
+        background-color: #ccc;
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        padding: 20px;
+        transition: 0.5s;
+        -webkit-transition: 0.5s;
+        -moz-transition: 0.5s;
+        -ms-transition: 0.5s;
+        -o-transition: 0.5s;
     }
 
     .whatsapp-btn {
         padding: 10px;
         width: 140px;
-        /* position: fixed;
-        bottom: 10px;
-        left: 10px; */
     }
 
     .phone-btn {
@@ -865,9 +881,6 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        /* position: fixed;
-        bottom: 10px;
-        right: 10px; */
     }
 
     /*****! End Header Section *****/
@@ -1234,22 +1247,38 @@
     /*****! Start Header Section *****/
     .header-main {
         width: 100%;
+        position: sticky;
     }
 
     .navbar-mid {
         margin: 0px 20px;
     }
 
+    .hamburgar {
+        display: block;
+    }
+
     .Btn {
-        display: none;
+        position: absolute;
+        top: 100%;
+        left: -1000px;
+        background-color: #ccc;
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        padding: 20px;
+        transition: 0.5s;
+        -webkit-transition: 0.5s;
+        -moz-transition: 0.5s;
+        -ms-transition: 0.5s;
+        -o-transition: 0.5s;
     }
 
     .whatsapp-btn {
         padding: 10px;
         width: 140px;
-        /* position: fixed;
-        bottom: 10px;
-        left: 10px; */
     }
 
     .phone-btn {
@@ -1258,9 +1287,6 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        /* position: fixed;
-        bottom: 10px;
-        right: 10px; */
     }
 
     /*****! End Header Section *****/
@@ -1633,14 +1659,33 @@
     /*****! Start Header Section *****/
     .header-main {
         width: 100%;
+        position: sticky;
     }
 
     .navbar-mid {
         margin: 0px 20px;
     }
 
+    .hamburgar {
+        display: block;
+    }
+
     .Btn {
-        display: none;
+        position: absolute;
+        top: 100%;
+        left: -1000px;
+        background-color: #ccc;
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        padding: 20px;
+        transition: 0.5s;
+        -webkit-transition: 0.5s;
+        -moz-transition: 0.5s;
+        -ms-transition: 0.5s;
+        -o-transition: 0.5s;
     }
 
     .whatsapp-btn {
@@ -2075,19 +2120,33 @@
     /*****! Start Header Section *****/
     .header-main {
         width: 100%;
+        position: sticky;
     }
 
     .navbar-mid {
         margin: 0px 20px;
     }
 
+    .hamburgar {
+        display: block;
+    }
+
     .Btn {
-        position: fixed;
-        bottom: 10px;
-        display: flex;
-        justify-content: center;
+        position: absolute;
+        top: 100%;
+        left: -1000px;
+        background-color: #ccc;
         width: 100%;
-        display: none;
+        height: 100vh;
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        padding: 20px;
+        transition: 0.5s;
+        -webkit-transition: 0.5s;
+        -moz-transition: 0.5s;
+        -ms-transition: 0.5s;
+        -o-transition: 0.5s;
     }
 
     .whatsapp-btn {
