@@ -31,6 +31,7 @@ body {
     margin: auto;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .navbar-mid>figure>img {
@@ -77,6 +78,16 @@ body {
     display: flex;
     gap: 8px;
     align-items: center;
+}
+
+.hamburgar {
+    cursor: pointer;
+    font-size: 20px;
+    display: none;
+}
+
+.showModal {
+    left: 0 !important;
 }
 
 /*****? End Header Section *****/
