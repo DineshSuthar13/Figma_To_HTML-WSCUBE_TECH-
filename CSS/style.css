@@ -857,6 +857,7 @@ form {
 
 .website-development>p {
     color: #0A2134;
+    display: none;
 }
 
 .website-development>h6 {
